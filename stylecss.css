@@ -1,25 +1,6 @@
-﻿@charset "UTF-8";
-
 @font-face{
-font-family:NotoSansCJKkr-DemiLight;
-src:url('D:\Desktop\webfont\NotoSansCJKkr-DemiLight.eot');
+font-family:Noto Sans CJK KR DemiLight;
+src:url('webfont/NotoSansCJKkr-DemiLight.eot');
 src:local(※), 
-	url('\webfont\NotoSansCJKkr-DemiLight.woff') format('woff');
-}
-
-body,
-button,
-input,
-select,
-textarea,
-p {
-	color: #999;
-	font-size: 16px;
-	line-height: 1.3;
-}
-body{
-	font-family: NotoSansCJKkr-DemiLight;
-	font-weight: normal;
-	margin: 0;
-	padding: 10px;
+	url('/webfont/NotoSansCJKkr-DemiLight.woff') format('woff');
 }
